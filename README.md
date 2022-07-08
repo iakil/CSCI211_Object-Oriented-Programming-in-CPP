@@ -8,8 +8,8 @@ Objective-oriented algorithmic problem solving in C++, with attention to general
 
 | Lab   |    Description | Code
 |----------|:------:|:------:|
-| Lab1 - Perfect square problem |  [Link](https://drive.google.com/open?id=1tS_M5feSizVCD0KDSoqMQEGrWBL5UdAx) | [Code](https://github.com/iakil/CSCI211_Object-Oriented-Programming-in-CPP/ree/main/Lab/HW/HW1)|
-| Lab2 - |  [Link](https://drive.google.com/open?id=1xyxcfARGpRTAZO6dpT-YTnP9hunr2EC_)     | [Code](https://github.com/iakil/CSCI211_Object-Oriented-Programming-in-CPP/ree/main/Lab/HW/HW1)|
+| Lab1 - Perfect square problem |  [Link](https://drive.google.com/open?id=1tS_M5feSizVCD0KDSoqMQEGrWBL5UdAx) | [Code](https://github.com/iakil/CSCI211_Object-Oriented-Programming-in-CPP/blob/main/Lab/HW/HW1.cpp)|
+| Lab2 - |  [Link](https://drive.google.com/open?id=1xyxcfARGpRTAZO6dpT-YTnP9hunr2EC_)     | [Code](https://github.com/iakil/CSCI211_Object-Oriented-Programming-in-CPP/blob/main/Lab/HW/HW2.cpp)|
 | Lab3 | [Link](https://drive.google.com/open?id=1iKefsaOa1KEh9GjkxKp7ZaVjVTk_qvki)  | [Code](https://github.com/iakil/CSCI211_Object-Oriented-Programming-in-CPP/ree/main/Lab/HW/HW1)|
 | Lab4 -  |    [Link](https://drive.google.com/open?id=1uEyXQ1muAow-FEUsd63dnEssKbwzGOED)    | [Code](https://github.com/iakil/CSCI211_Object-Oriented-Programming-in-CPP/ree/main/Lab/HW/HW1)| 
 | Lab8 -  |    [Link](https://drive.google.com/open?id=1FfOP0CN_RuCZWuRIH2bV3iS1dFE5GAcf)     | [Code](https://github.com/iakil/CSCI211_Object-Oriented-Programming-in-CPP/ree/main/Lab/HW/HW1)|

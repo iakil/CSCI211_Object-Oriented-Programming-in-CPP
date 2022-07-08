@@ -1,6 +1,8 @@
-//akil bhuiyan
-//prof. cong chen
-//cs211-HW1
+/*
+akil bhuiyan
+prof. cong chen
+cs211-HW1
+*/
 
 #include <iostream>
 using namespace std;
